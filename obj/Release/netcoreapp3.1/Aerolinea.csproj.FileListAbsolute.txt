@@ -1,0 +1,118 @@
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.exe
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.deps.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.pdb
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.Form1.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.Properties.Resources.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.pdb
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.genruntimeconfig.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.csproj.AssemblyReference.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.csproj.AssemblyReference.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.Form1.resources
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.Form2.resources
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.Properties.Resources.resources
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.csproj.GenerateResource.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfoInputs.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfo.cs
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.dll
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.pdb
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.exe
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.deps.json
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.json
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.dev.json
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.dll
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\bin\Release\netcoreapp3.1\Aerolinea.pdb
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Aerolinea - Copy\obj\Release\netcoreapp3.1\Aerolinea.genruntimeconfig.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.exe
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.deps.json
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.json
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.dev.json
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.dll
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.pdb
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.AssemblyReference.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Form1.resources
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Form2.resources
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Properties.Resources.resources
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.GenerateResource.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfoInputs.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfo.cs
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.dll
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.pdb
+C:\Users\Nicolas Beisswenger\OneDrive\Documentos\ULACIT\Cuatrimestre 05\Diseño de Aplicaciones\Semana 07\Beta Proyecto\Avance Proyecto\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.genruntimeconfig.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.pdb
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.exe
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.deps.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.pdb
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Form1.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Form2.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Properties.Resources.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.genruntimeconfig.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.exe
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.deps.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\Aerolinea.pdb
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.Properties.Resources.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfo.cs
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.csproj.CopyComplete
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.dll
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.pdb
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.genruntimeconfig.cache
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.pantallaLogin_Form.resources
+D:\OneDrive\OneDrive - ULACIT ED CR\Universidad ULACIT\2021\III Cuatri 2021\Diseño de Aplicaciones de Software\Proyecto\WinForms\Aerolínea con Login - Copy\Aerolinea - Login\obj\Release\netcoreapp3.1\Aerolinea.PantallaPrincipal_Form.resources
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\Aerolinea.exe
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\Aerolinea.deps.json
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.json
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\Aerolinea.runtimeconfig.dev.json
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\Aerolinea.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\Aerolinea.pdb
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.csproj.AssemblyReference.cache
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.pantallaLogin_Form.resources
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.PantallaPrincipal_Form.resources
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.Properties.Resources.resources
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.csproj.GenerateResource.cache
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfoInputs.cache
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.AssemblyInfo.cs
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.csproj.CopyComplete
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.dll
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.pdb
+C:\Users\Jorge\Downloads\Aerolínea\Aerolinea\obj\Release\netcoreapp3.1\Aerolinea.genruntimeconfig.cache
